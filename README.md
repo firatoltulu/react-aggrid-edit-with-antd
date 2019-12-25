@@ -8,3 +8,11 @@
 Demo of React Grid Component customization with custom filtering logic, cell renderer and cell editor 
 with antd-design
 ------
+
+before start you must run follow command,
+
+npm install
+
+npm run start
+
+
