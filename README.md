@@ -1,3 +1,6 @@
+**this repository copy and edit from https://github.com/react-datagrid/customization-demo
+
+
 
 ![alt text](./github-banner.png "Logo Title Text 1")
 
